@@ -1,7 +1,3 @@
----
-title: "Welcome!"
----
-
 # Hello and Welcome!
 
 I'm excited to share my projects, blogs, and ideas here. This website is a showcase of my journey, learning experiences, and creations.
